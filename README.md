@@ -1,2 +1,4 @@
 # NoobStuff
-Idk what I’m doing
+System.out.println (“I Was Testing”);
+}
+}
